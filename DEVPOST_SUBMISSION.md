@@ -88,6 +88,7 @@ DevinGuard is a **Dual-Engine Autonomous Software Engineering Cockpit & Runtime 
 
 ## 🔗 Links & Resources
 
+* **YouTube Demo Video:** `https://youtu.be/wuwcAJM9CbY`
 * **GitHub Repository:** `https://github.com/amazing200guy1-a11y/devinguard`
 * **Live Interactive HUD:** `https://amazing200guy1-a11y.github.io/devinguard/`
 * **Test Suite:** `python test_devinguard.py` (10/10 PASS)

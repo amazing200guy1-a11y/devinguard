@@ -8,6 +8,7 @@
 [![Token Optimization](https://img.shields.io/badge/Context%20Pruning-81.8%25%20Token%20Reduction-00f0ff)]()
 [![Loop Killer](https://img.shields.io/badge/Lyapunov%20Governor-Zero%20Runaway%20Burns-f59e0b)]()
 [![Interactive HUD](https://img.shields.io/badge/Live%20Cockpit-Interactive%20HUD-a855f7)](https://amazing200guy1-a11y.github.io/devinguard/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/wuwcAJM9CbY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8)](LICENSE)
 
 > *Enterprises want autonomous software engineers like Devin, but fear test-tampering, hallucinated dependencies, infinite loop credit burns, and silent regressions. DevinGuard is the dual-engine cockpit that makes Devin 4.5x faster and 80% cheaper while enforcing unignorable zero-trust safety.*
@@ -99,6 +100,9 @@ python run_demo.py
 ### 3. Open the Interactive Web Cockpit (HUD)
 Open `index.html` in any browser or test live online at:  
 👉 **[https://amazing200guy1-a11y.github.io/devinguard/](https://amazing200guy1-a11y.github.io/devinguard/)**
+
+### 4. Watch the Dedicated Video Demonstration
+📺 **[https://youtu.be/wuwcAJM9CbY](https://youtu.be/wuwcAJM9CbY)**
 
 ---
 
