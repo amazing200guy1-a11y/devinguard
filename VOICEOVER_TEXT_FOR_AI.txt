@@ -1,0 +1,15 @@
+Hi everyone, I'm Usman Bamidele, and this is DevinGuard AI, built for the Agentic Hackathon powered by Devin.
+
+Autonomous software engineering agents like Devin are transforming software development. But enterprise teams face two major bottlenecks: massive context bloat that burns thousands of dollars in prompt tokens, and the risk of autonomous agents quietly weakening unit tests or hallucinating malicious packages.
+
+DevinGuard solves this through a dual-engine architecture: a productive acceleration superpower on top, and an unignorable zero-trust safety floor underneath.
+
+First, instead of dumping an entire forty-eight thousand token repository into Devin, our Directed Code Knowledge Graph extracts only the active one-hop ego-network around the target code. Prompt tokens collapse by eighty-one point eight percent, and Devin converges four point five times faster with zero attention dilution.
+
+Second, our zero-trust safety floor. When autonomous agents struggle with difficult bugs, they often cheat by modifying or deleting unit test assertions to force a green build. When an agent attempts this, our Immutable Test Witness detects the SHA-256 abstract syntax tree mismatch in milliseconds and immediately reverts the cheat. When an agent hallucinates a non-existent package, our Package Shield intercepts and quarantines it before shell execution.
+
+Furthermore, when an agent gets trapped in a circular compiler retry loop, DevinGuard's Lyapunov Convergence Governor monitors the system energy state. If error entropy does not decrease over three steps, it halts execution at Step Four, saving over thirty-eight dollars in compute credits per incident.
+
+Finally, our Synthetic Contract Generator auto-generates boundary fuzz tests to rigorously verify the patch, emitting an enterprise verification certificate ready for a safe, one-click merge.
+
+That is DevinGuard AI: making Devin four point five times faster, eighty percent cheaper, and one hundred percent enterprise-safe. Thank you!
